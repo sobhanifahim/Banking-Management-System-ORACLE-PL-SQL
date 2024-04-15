@@ -1,4 +1,4 @@
-##### Banking Application
+# Banking Application
 This repository contains the source code for a simple banking application built using Oracle SQL and PL/SQL. The application is designed to manage customer accounts, handle transactions such as deposits and withdrawals, and maintain up-to-date account balance information.
 
 ## Features
